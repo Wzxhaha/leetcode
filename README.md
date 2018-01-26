@@ -1,2 +1,1 @@
 # leetcode
-write write write
